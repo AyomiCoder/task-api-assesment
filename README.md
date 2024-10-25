@@ -15,8 +15,8 @@ This is a simple RESTful API built with Node.js and Express for managing a list 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/todo-api.git
-    cd todo-api
+    git clone https://github.com/AyomiCoder/task-api-assesment.git
+    cd task-api-assesment
     ```
 
 2. **Install dependencies**:
