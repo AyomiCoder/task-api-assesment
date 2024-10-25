@@ -8,7 +8,6 @@ This is a simple RESTful API built with Node.js and Express for managing a list 
 - **Data Persistence**: Tasks are stored in memory or persisted to a JSON file.
 - **Validation and Error Handling**: Validates incoming data and returns appropriate HTTP status codes.
 - **Custom Logging Middleware**: Logs request details (method, endpoint, timestamp).
-- **Deployable on Vercel**: Compatible with serverless deployment.
 
 ## Getting Started
 
